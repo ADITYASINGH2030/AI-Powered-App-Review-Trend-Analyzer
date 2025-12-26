@@ -122,3 +122,9 @@ Sentiment scoring per topic
 Time-based trend comparison
 
 Export insights to CSV / DB
+
+
+
+https://github.com/user-attachments/assets/07442216-de32-4115-8c8d-09b2374e7325
+
+
